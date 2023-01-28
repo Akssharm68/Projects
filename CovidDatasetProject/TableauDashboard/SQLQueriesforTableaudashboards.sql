@@ -1,5 +1,7 @@
 /*
 Queries used for fetching/cleaning data from sql and them coverting it into excels files to be used for drafting Tableau Dashboards 
+
+Link for Tableau Public: https://public.tableau.com/app/profile/akshat.sharma3734 
 */
 
 
